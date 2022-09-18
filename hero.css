@@ -3,7 +3,7 @@
     width: 100%;
     min-height: 300px;
     height: calc(100vh - 90px);
-    background-image: url(images/hero2.jpg);
+    background-image: url(Images/hero2.jpg);
     background-size: cover;
     background-position: center top;
     background-attachment: fixed;
